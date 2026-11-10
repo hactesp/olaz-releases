@@ -35,9 +35,3 @@ Mỗi bản phát hành ghi SHA-256 của từng tệp. Kiểm tra bằng `shasu
 ## Báo lỗi
 
 Mở một [issue](../../issues) (đừng đăng ảnh chụp có tin nhắn hoặc thông tin cá nhân).
-
-## Giấy phép / Licence
-
-Olaz dựa trên phần mềm GPL-3.0 (zalo-swift-re và libsignal-protocol-javascript). Theo GPL-3.0, bạn có thể
-**yêu cầu mã nguồn** của bản bạn đã tải: mở một issue ở đây để được cung cấp.
-*Olaz is based on GPL-3.0 software; the corresponding source code is available on request via an issue.*
